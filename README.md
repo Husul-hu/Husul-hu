@@ -1,3 +1,5 @@
+![133744297072915179](https://github.com/user-attachments/assets/65259fba-4b50-4e50-aa63-d310203f576c)
+
 Hi there! 👋
 
 Welcome to my GitHub profile! I'm Halima, a passionate public health enthusiast with a love for coding, data analysis, and community engagement. 🌍✨
@@ -20,4 +22,21 @@ Welcome to my GitHub profile! I'm Halima, a passionate public health enthusiast 
 
 🌟 Collaboration: Sharing knowledge and learning from others to grow as a professional and individual.
 
-![133744297072915179](https://github.com/user-attachments/assets/65259fba-4b50-4e50-aa63-d310203f576c)
+Skills
+
+Languages: R, SQL,
+
+Data Analysis: SPSS, Excel
+
+Visualization: ggplot2, matplotlib
+
+Tools: GitHub, PowerPoint, Microsoft Word
+
+Let’s Connect!
+
+💌 huthman36@gmail.com
+
+📚 Always open to discussions about books, health data, and community projects!
+
+Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate or just chat. 😊
+
